@@ -25,8 +25,8 @@ repositories:
     version: 1e8b6d234e2690c9da386f006bb60835cdccddfd
   universe/autoware.universe:
     type: git
-    url: https://github.com/autowarefoundation/autoware.universe.git
-    version: 56ad4b4621a5927013b9c59f351fece7bf237c78
+    url: https://github.com/yhisaki/autoware.universe.git
+    version: b4b33ef5b5b1e52e005c6d9544f1110ab46ef7e2
   universe/external/tier4_ad_api_adaptor:
     type: git
     url: https://github.com/tier4/tier4_ad_api_adaptor.git
@@ -69,8 +69,8 @@ repositories:
     version: aa498007d47198815fa7cba25f9dfeac77e09ca3
   launcher/autoware_launch:
     type: git
-    url: https://github.com/autowarefoundation/autoware_launch.git
-    version: 56b78475e377f6391851cc7979a8288810dc7901
+    url: https://github.com/yhisaki/autoware_launch.git
+    version: af3512eff7e51008f457d9e5e10da1a24a016db2
   sensor_component/external/sensor_component_description:
     type: git
     url: https://github.com/tier4/sensor_component_description.git
