@@ -26,7 +26,7 @@ repositories:
   universe/autoware.universe:
     type: git
     url: https://github.com/yhisaki/autoware.universe.git
-    version: b4b33ef5b5b1e52e005c6d9544f1110ab46ef7e2
+    version: feat/dev_racing_overtake_module
   universe/external/tier4_ad_api_adaptor:
     type: git
     url: https://github.com/tier4/tier4_ad_api_adaptor.git
